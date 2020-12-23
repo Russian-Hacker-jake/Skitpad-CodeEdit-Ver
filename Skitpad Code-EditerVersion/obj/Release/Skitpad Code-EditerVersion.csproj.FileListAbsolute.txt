@@ -1,0 +1,10 @@
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\bin\Release\Skitpad Code-EditerVersion.exe.config
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\bin\Release\Skitpad Code-EditerVersion.exe
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\bin\Release\Skitpad Code-EditerVersion.pdb
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\obj\Release\Skitpad Code-EditerVersion.csprojAssemblyReference.cache
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\obj\Release\Skitpad_Code_EditerVersion.Form1.resources
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\obj\Release\Skitpad_Code_EditerVersion.Properties.Resources.resources
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\obj\Release\Skitpad Code-EditerVersion.csproj.GenerateResource.cache
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\obj\Release\Skitpad Code-EditerVersion.csproj.CoreCompileInputs.cache
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\obj\Release\Skitpad Code-EditerVersion.exe
+C:\Users\maxio\source\Apps\Skitpad Code-EditerVersion\obj\Release\Skitpad Code-EditerVersion.pdb
